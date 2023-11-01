@@ -1,0 +1,95 @@
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+
+    line-height: 1.4em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+hr {
+    border: 1px sold gray;
+}
+
+.bio p,
+.ri p,
+.email p,
+.links p,
+.teach p,
+.others p {
+    padding-top: 5px;
+}
+
+.bio ul,
+.ri ul,
+.email ul,
+.links ul,
+.teach ul,
+.others ul {
+    padding-top: 5px;
+}
+
+.bio,
+.ri,
+.email,
+.links,
+.teach,
+.others {
+    font-family: Palatino, "EB Garamond", Georgia, "Times New Roman", serif;
+    font-size: 18px
+}
+
+.intro-card h1 {
+    font-size: 36px;
+    font-family: Palatino, "EB Garamond", Georgia, "Times New Roman", serif;
+}
+
+.intro-card .intro-info {
+    font-size: 18px;
+    font-family: Palatino, "EB Garamond", Georgia, "Times New Roman", serif;
+    text-align: start;
+}
+
+h2 {
+    font-size: 30px
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer a {
+    padding-left: 10px
+}
+
+.links a {
+    padding-left: 3px
+}
+
+.active {
+    color: #222222
+}
+
+.bar {
+    font-family: "Raleway", "Roboto", sans-serif;
+}
